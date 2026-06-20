@@ -23,7 +23,7 @@ Reunimos abaixo os integrantes da equipe responsáveis pelo planejamento, engenh
 | 👤 Integrante | 🛠️ Função Principal no Projeto | 🔗 GitHub |
 | :--- | :--- | :--- |
 | **Hadjamiris** | Dev / Admin do Repositório | [@Hadjamiris](https://github.com/Hadjamiris) |
-| **Matheus W.** | Cientista de Dados / Analytics | [@MatheusWander](https://github.com) |
+| **Matheus W.** | Engenheiro de Dados / Analytics | [@MatheusWander](https://github.com) |
 | **Isabella** | Análise de Requisitos / Data QA | [GitHub](https://github) |
 | **Maria Vitória**| Documentação / Relatório Escrito | [GitHub](https://github) |
 | **Manoella** | Engenharia de Features | [GitHub](https://github) |
