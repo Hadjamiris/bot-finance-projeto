@@ -25,7 +25,7 @@ Reunimos abaixo os integrantes da equipe responsáveis pelo planejamento, engenh
 | **Hadjamiris** | Dev / Admin do Repositório | [@Hadjamiris](https://github.com/Hadjamiris) |
 | **Matheus W.** | Engenheiro de Dados / Analytics | [@MatheusWander](https://github.com) |
 | **Isabella** | Análise de Requisitos / Data QA | [GitHub](https://github) 
-| **Manoella** | Engenharia de Features / Documentação / Relatório Escrito | [GitHub](https://github) |
+| **Manoella** | Engenharia de Features / Documentação / Relatório Escrito | [@manoellaweiser](https://github.com/manoellaweiser-gif) |
 
 ---
 
