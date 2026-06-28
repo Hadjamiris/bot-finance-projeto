@@ -31,7 +31,7 @@ Reunimos abaixo os integrantes da equipe responsáveis pelo planejamento, engenh
 
 ## 📆 Cronograma e Entregas
 
-* **📅 Data da Apresentação:** 29/06 às 15h10 (Presencial - Tempo: 30 min)
+* **📅 Data da Apresentação:** 06/07 às 15h10 (Presencial - Tempo: 30 min)
 * **📄 Trabalho Escrito:** Relatório formal contextualizando o problema, a metodologia de Ciência de Dados e os resultados (máximo de 10 páginas).
 
 ---
